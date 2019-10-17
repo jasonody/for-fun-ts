@@ -1,0 +1,24 @@
+{
+  "name": "for-fun-ts",
+  "version": "1.0.0",
+  "description": "Fun with Typescript",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonody/for-fun-ts.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasonody/for-fun-ts/issues"
+  },
+  "homepage": "https://github.com/jasonody/for-fun-ts#readme"
+}
