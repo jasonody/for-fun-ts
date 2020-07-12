@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Fun with Typescript",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "fp-ts": "^2.7.0"
+  },
   "devDependencies": {
     "ts-node": "^8.4.1",
     "typescript": "^3.6.4"
